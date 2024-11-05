@@ -1,0 +1,9 @@
+{
+  "name": "Custom Pressure Card",
+  "domain": "custom_pressure_card",
+  "documentation": "https://github.com/username/custom-pressure-card",
+  "dependencies": [],
+  "codeowners": ["@Iakovosv"],
+  "requirements": [],
+  "version": "1.0.0"
+}
